@@ -1,0 +1,9 @@
+{
+  "key": "GET /v1/estimates?printingId=371610ae-5ff0-457a-9c95-90fa9bd31386",
+  "status": 200,
+  "headers": {
+    "cache-control": "public, max-age=300",
+    "content-type": "application/json; charset=utf-8"
+  },
+  "body": "{\"data\":[{\"printingId\":\"371610ae-5ff0-457a-9c95-90fa9bd31386\",\"region\":\"za\",\"currency\":\"ZAR\",\"amount\":null,\"method\":\"none\",\"confidence\":null,\"sampleCount\":0,\"storeCount\":0,\"asOf\":null,\"calculationVersion\":null}],\"meta\":{\"requestId\":\"e2e-estimates\",\"priceVersion\":\"0\"}}"
+}

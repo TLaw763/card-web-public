@@ -1,0 +1,8 @@
+{
+  "key": "GET /v1/cards/00000000-0000-4000-8000-000000000000",
+  "status": 404,
+  "headers": {
+    "content-type": "application/problem+json; charset=utf-8"
+  },
+  "body": "{\"type\":\"https://api.enigmic.invalid/problems/not_found\",\"title\":\"Card not found\",\"status\":404,\"code\":\"not_found\",\"detail\":\"The card does not exist in the active catalog.\",\"requestId\":\"9043e9a4-c497-4613-a790-a1db4d8c7b6c\"}"
+}

@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+/* Tokens, Tailwind mapping, dark variant (data-color-mode, D-049) and base
+   styles: the shared Enigmic theme (@enigmic-co/ui, styling guide D-064). */
+@import "@enigmic-co/ui/styles/theme.css";
+
+.container {
+  margin: 0 auto;
+}
+
+/* Match AppNav sticky header (h-14) plus breathing room below it */
+.enigmic-card-root {
+  --enigmic-detail-sticky-top: calc(3.5rem + 1.25rem);
+}
+
+/* NavigationProgress (components/CardToolkitShell.tsx). */
+@keyframes navigation-progress {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(300%);
+  }
+}

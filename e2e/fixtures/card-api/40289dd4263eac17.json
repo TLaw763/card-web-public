@@ -1,0 +1,11 @@
+{
+  "key": "GET /v1/format-list-releases?kind=genesys&page%5Blimit%5D=50",
+  "status": 200,
+  "headers": {
+    "cache-control": "public, max-age=300, s-maxage=600, stale-while-revalidate=3600, stale-if-error=86400",
+    "content-type": "application/json; charset=utf-8",
+    "etag": "W/\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240:bCifcNLsy3_o6s3U9b7ScpZEfyE\"",
+    "x-data-version": "source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240"
+  },
+  "body": "{\"data\":[],\"meta\":{\"dataVersion\":\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240\",\"requestId\":\"43a66d51-b037-4824-bc03-485011628e22\",\"page\":{\"limit\":50,\"hasMore\":false,\"nextCursor\":null}}}"
+}

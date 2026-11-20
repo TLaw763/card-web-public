@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+.vercel
+.DS_Store
+
+# Playwright
+/playwright-report/
+/test-results/
+/.lighthouseci/
+/blob-report/

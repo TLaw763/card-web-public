@@ -1,0 +1,11 @@
+{
+  "key": "GET /v1/cards/ac500302-091b-4256-bf2e-3f1387ed4cd0/legality?format=tcg_advanced",
+  "status": 200,
+  "headers": {
+    "cache-control": "public, max-age=300, s-maxage=600, stale-while-revalidate=3600, stale-if-error=86400",
+    "content-type": "application/json; charset=utf-8",
+    "etag": "W/\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240:SLVgU9oIo4udP97-z2pHkNiBM95\"",
+    "x-data-version": "source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240"
+  },
+  "body": "{\"data\":{\"cardId\":\"ac500302-091b-4256-bf2e-3f1387ed4cd0\",\"format\":\"tcg_advanced\",\"region\":\"north_america\",\"status\":\"unlimited\",\"maxCopies\":3,\"effectiveFrom\":\"2026-10-13T14:05:27.992Z\",\"effectiveUntil\":null},\"meta\":{\"dataVersion\":\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240\",\"requestId\":\"6b164e83-c558-4223-a835-b610cfab9738\"}}"
+}

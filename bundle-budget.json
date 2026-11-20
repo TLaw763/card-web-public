@@ -1,0 +1,5 @@
+{
+  "$comment": "First-load JS per page in kB (gzipped), checked by scripts/check-bundle-budget.mjs. Set 2026-10-12 at ~7% over the measured 158-162 kB; back to 170 on 2026-11-08 once @enigmic-co/ui is imported per module. Raised to 215 on 2026-11-09 for Next 16: its client runtime is ~29 kB bigger (shared chunks 102.5 -> 131.6 kB) while card-web's own code is unchanged; measured 192-203 kB. /status no longer needs its own limit.",
+  "default": 215,
+  "pages": {}
+}

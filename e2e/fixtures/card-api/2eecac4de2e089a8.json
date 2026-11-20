@@ -1,0 +1,11 @@
+{
+  "key": "GET /v1/cards/ac500302-091b-4256-bf2e-3f1387ed4cd0",
+  "status": 200,
+  "headers": {
+    "cache-control": "public, max-age=300, s-maxage=600, stale-while-revalidate=3600, stale-if-error=86400",
+    "content-type": "application/json; charset=utf-8",
+    "etag": "W/\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240:6Q_EOs3Rtw9D4YOyhlp8qTRhSTX\"",
+    "x-data-version": "source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240"
+  },
+  "body": "{\"data\":{\"id\":\"ac500302-091b-4256-bf2e-3f1387ed4cd0\",\"name\":\"Troposphere\",\"passcode\":null,\"konamiId\":\"9197\",\"locale\":\"en\",\"status\":\"verified\",\"cardType\":\"monster\",\"rulesText\":\"If you Tribute Summon this card, the Tribute must be Winged Beast-Type. This card is unaffected by the effects of Trap Cards.\",\"pendulumText\":null,\"pendulumScale\":null,\"attribute\":\"WIND\",\"race\":\"WINGED_BEAST\",\"typeLine\":[\"WIND\",\"WINGED_BEAST\"],\"spellTrapSubtype\":null,\"level\":6,\"rank\":null,\"linkRating\":null,\"atk\":2400,\"def\":2000,\"banListStatus\":null,\"archetypeIds\":[],\"thumbnailUrl\":\"https://api-dev.enigmic.co.za/v1/assets/3c8ad4219be5824a583234ab9f7d6dda8f95ba40ec5cda8db4041190d6879ca0\",\"updatedAt\":\"2026-10-11T02:42:19.735Z\",\"source\":{\"authority\":\"konami\",\"verifiedAt\":\"2026-10-11T12:51:57.464Z\",\"freshness\":\"current\"}},\"meta\":{\"dataVersion\":\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240\",\"requestId\":\"f1a224ac-3fc7-4e0a-96f6-f5c34e959463\"}}"
+}
