@@ -1,0 +1,11 @@
+{
+  "key": "GET /v1/cards/ac500302-091b-4256-bf2e-3f1387ed4cd0/printings?page%5Blimit%5D=100",
+  "status": 200,
+  "headers": {
+    "cache-control": "public, max-age=300, s-maxage=600, stale-while-revalidate=3600, stale-if-error=86400",
+    "content-type": "application/json; charset=utf-8",
+    "etag": "W/\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240:_xZ-3dCrfgYg6bNfCf77Q4BxZq-\"",
+    "x-data-version": "source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240"
+  },
+  "body": "{\"data\":[{\"id\":\"371610ae-5ff0-457a-9c95-90fa9bd31386\",\"cardId\":\"ac500302-091b-4256-bf2e-3f1387ed4cd0\",\"artworkId\":null,\"setId\":\"2a311c78-4766-4741-98b4-12557a0c72a1\",\"productId\":\"2a311c78-4766-4741-98b4-12557a0c72a1\",\"setCode\":\"JMPS-EN001\",\"productName\":\"Shonen Jump Scholastic Edition\",\"collectorNumber\":\"EN001\",\"rarity\":{\"name\":\"UR\",\"code\":\"UR\",\"normalized\":\"ur\"},\"edition\":\"UNL\",\"language\":\"en\",\"region\":\"north_america\",\"releaseDate\":\"2026-10-05\",\"isArtworkFallback\":true}],\"meta\":{\"dataVersion\":\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240\",\"requestId\":\"decc253b-f6cb-4083-b2f0-995ee5bdb67e\",\"page\":{\"limit\":100,\"hasMore\":false,\"nextCursor\":null}}}"
+}

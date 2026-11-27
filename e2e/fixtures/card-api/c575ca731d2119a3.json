@@ -1,0 +1,9 @@
+{
+  "key": "GET /v1/health",
+  "status": 200,
+  "headers": {
+    "cache-control": "no-store",
+    "content-type": "application/json; charset=utf-8"
+  },
+  "body": "{\"status\":\"ok\",\"requestId\":\"3b33aa1f-383f-40f2-a524-f7a04d68f26b\"}"
+}

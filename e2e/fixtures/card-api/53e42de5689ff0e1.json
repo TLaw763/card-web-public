@@ -1,0 +1,11 @@
+{
+  "key": "GET /v1/cards/6dc69440-2aa5-4fac-ae38-3a7162ce54fc/artworks?page%5Blimit%5D=100",
+  "status": 200,
+  "headers": {
+    "cache-control": "public, max-age=300, s-maxage=600, stale-while-revalidate=3600, stale-if-error=86400",
+    "content-type": "application/json; charset=utf-8",
+    "etag": "W/\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240:5eVWNEnQEDGHJ5UiiJxReOgmYji\"",
+    "x-data-version": "source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240"
+  },
+  "body": "{\"data\":[{\"id\":\"de9b8964-2c12-499a-8a73-79b237c0f16c\",\"cardId\":\"6dc69440-2aa5-4fac-ae38-3a7162ce54fc\",\"ordinal\":1,\"status\":\"available\",\"attribution\":null,\"assets\":[{\"kind\":\"thumbnail\",\"url\":\"https://api-dev.enigmic.co.za/v1/assets/573f4a7323489a82aa45509e4060f29214eef52503cfd7e16da72e28916e5f0e\",\"width\":1,\"height\":1,\"contentHash\":\"573f4a7323489a82aa45509e4060f29214eef52503cfd7e16da72e28916e5f0e\"},{\"kind\":\"full\",\"url\":\"https://api-dev.enigmic.co.za/v1/assets/704d9bd6a620f24084b761555fc9543d3308d3383088106423f72a216dc34764\",\"width\":1,\"height\":1,\"contentHash\":\"704d9bd6a620f24084b761555fc9543d3308d3383088106423f72a216dc34764\"}],\"updatedAt\":\"2026-08-30T19:44:34.427Z\"}],\"meta\":{\"dataVersion\":\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240\",\"requestId\":\"39e841ac-94a5-4f10-8c43-ce044dc8a709\",\"page\":{\"limit\":100,\"hasMore\":false,\"nextCursor\":null}}}"
+}

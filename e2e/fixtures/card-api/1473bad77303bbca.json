@@ -1,0 +1,8 @@
+{
+  "key": "GET /v1/cards/6dc69440-2aa5-4fac-ae38-3a7162ce54fc/genesys",
+  "status": 404,
+  "headers": {
+    "content-type": "application/problem+json; charset=utf-8"
+  },
+  "body": "{\"type\":\"https://api.enigmic.invalid/problems/not_found\",\"title\":\"Genesys points not found\",\"status\":404,\"code\":\"not_found\",\"detail\":\"No Genesys format-list release matches the requested query.\",\"requestId\":\"4398b09e-0c96-46af-9008-fcc84e437b5f\"}"
+}

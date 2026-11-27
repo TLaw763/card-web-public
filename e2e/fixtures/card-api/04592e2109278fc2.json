@@ -1,0 +1,11 @@
+{
+  "key": "GET /v1/cards/autocomplete?limit=8&q=dark+magician",
+  "status": 200,
+  "headers": {
+    "cache-control": "private, max-age=30",
+    "content-type": "application/json; charset=utf-8",
+    "etag": "W/\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240:UY34gEOQOTkjhHLknr8MMGcWUwO\"",
+    "x-data-version": "source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240"
+  },
+  "body": "{\"data\":[{\"id\":\"6dc69440-2aa5-4fac-ae38-3a7162ce54fc\",\"name\":\"Dark Magician\",\"cardType\":\"monster\",\"passcode\":\"46986414\",\"thumbnailUrl\":null,\"matchedText\":\"Dark Magician\"},{\"id\":\"d0e459a7-70b3-41c4-81d5-f922b03737f5\",\"name\":\"Toon Dark Magician\",\"cardType\":\"monster\",\"passcode\":null,\"thumbnailUrl\":null,\"matchedText\":\"Toon Dark Magician\"},{\"id\":\"165b7cad-a20e-4257-8530-c9fa660fc02f\",\"name\":\"The Dark Magicians\",\"cardType\":\"monster\",\"passcode\":null,\"thumbnailUrl\":null,\"matchedText\":\"The Dark Magicians\"},{\"id\":\"ea39dcc5-a2c8-4150-b7bf-8099a98f80a6\",\"name\":\"Magician of Dark Illusion\",\"cardType\":\"monster\",\"passcode\":null,\"thumbnailUrl\":null,\"matchedText\":\"Magician of Dark Illusion\"},{\"id\":\"d231a42f-9882-42d9-b010-747a132345fb\",\"name\":\"Ape Magician\",\"cardType\":\"monster\",\"passcode\":null,\"thumbnailUrl\":null,\"matchedText\":\"Ape Magician\"},{\"id\":\"ed1e35f5-b8bf-4fa2-9bb0-18f2a1407694\",\"name\":\"Dark Magic Veil\",\"cardType\":\"spell\",\"passcode\":null,\"thumbnailUrl\":null,\"matchedText\":\"Dark Magic Veil\"},{\"id\":\"3fb9dc32-e613-400c-83d4-4ef69efc9cc6\",\"name\":\"Dark Magician of Destruction\",\"cardType\":\"monster\",\"passcode\":null,\"thumbnailUrl\":null,\"matchedText\":\"Dark Magician of Destruction\"},{\"id\":\"de1f7f71-03f9-4210-9678-be8cc7869dc9\",\"name\":\"Dark Magician the Magician of Black Magic\",\"cardType\":\"monster\",\"passcode\":\"00342673\",\"thumbnailUrl\":null,\"matchedText\":\"Dark Magician the Magician of Black Magic\"}],\"meta\":{\"dataVersion\":\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240\",\"requestId\":\"8d5a3117-858e-4c2a-b120-459f25d205d9\"}}"
+}

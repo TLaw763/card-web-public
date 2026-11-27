@@ -1,0 +1,11 @@
+{
+  "key": "GET /v1/data-version",
+  "status": 200,
+  "headers": {
+    "cache-control": "public, max-age=300, s-maxage=600, stale-while-revalidate=3600, stale-if-error=86400",
+    "content-type": "application/json; charset=utf-8",
+    "etag": "W/\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240:H0Q3pJBZ7z_UcxO34SBXPRKmhMY\"",
+    "x-data-version": "source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240"
+  },
+  "body": "{\"data\":{\"version\":\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240\",\"publishedAt\":\"2026-10-11T12:51:57.464Z\",\"contentHash\":\"830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240\",\"previousVersion\":null},\"meta\":{\"dataVersion\":\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240\",\"requestId\":\"82d65fe7-ddd7-4a87-90eb-9841db9444fa\"}}"
+}

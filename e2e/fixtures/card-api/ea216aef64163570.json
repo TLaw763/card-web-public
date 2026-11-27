@@ -1,0 +1,11 @@
+{
+  "key": "GET /v1/cards/6dc69440-2aa5-4fac-ae38-3a7162ce54fc",
+  "status": 200,
+  "headers": {
+    "cache-control": "public, max-age=300, s-maxage=600, stale-while-revalidate=3600, stale-if-error=86400",
+    "content-type": "application/json; charset=utf-8",
+    "etag": "W/\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240:ki_qT-L_B6gVS067mkX_3p54oyv\"",
+    "x-data-version": "source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240"
+  },
+  "body": "{\"data\":{\"id\":\"6dc69440-2aa5-4fac-ae38-3a7162ce54fc\",\"name\":\"Dark Magician\",\"passcode\":\"46986414\",\"konamiId\":\"4041\",\"locale\":\"en\",\"status\":\"verified\",\"cardType\":\"monster\",\"rulesText\":\"The ultimate wizard in terms of attack and defense.\",\"pendulumText\":null,\"pendulumScale\":null,\"attribute\":\"DARK\",\"race\":\"SPELLCASTER\",\"typeLine\":[\"DARK\",\"SPELLCASTER\"],\"spellTrapSubtype\":null,\"level\":7,\"rank\":null,\"linkRating\":null,\"atk\":2500,\"def\":2100,\"banListStatus\":null,\"archetypeIds\":[],\"thumbnailUrl\":\"https://api-dev.enigmic.co.za/v1/assets/573f4a7323489a82aa45509e4060f29214eef52503cfd7e16da72e28916e5f0e\",\"updatedAt\":\"2026-08-31T10:59:02.008Z\",\"source\":{\"authority\":\"konami\",\"verifiedAt\":\"2026-10-11T12:51:57.464Z\",\"freshness\":\"current\"}},\"meta\":{\"dataVersion\":\"source-all-8715-cards-2026-10-11-830d4f40893f:830d4f40893f6a8af717b84647e7cee55c69433be97001235867434c363c5240\",\"requestId\":\"5cf0f96f-3e64-4fff-ac42-23721e8d1aeb\"}}"
+}
